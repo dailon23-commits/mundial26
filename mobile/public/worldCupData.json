@@ -1,0 +1,1998 @@
+{
+  "teams": [
+    {
+      "id": "778",
+      "name": "Algeria",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/algeria.svg",
+      "apiId": 778
+    },
+    {
+      "id": "762",
+      "name": "Argentina",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/762.png",
+      "apiId": 762
+    },
+    {
+      "id": "779",
+      "name": "Australia",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/779.svg",
+      "apiId": 779
+    },
+    {
+      "id": "816",
+      "name": "Austria",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/816.svg",
+      "apiId": 816
+    },
+    {
+      "id": "805",
+      "name": "Belgium",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/805.svg",
+      "apiId": 805
+    },
+    {
+      "id": "1060",
+      "name": "Bosnia-H.",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/bosnia.svg",
+      "apiId": 1060
+    },
+    {
+      "id": "764",
+      "name": "Brazil",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/764.svg",
+      "apiId": 764
+    },
+    {
+      "id": "828",
+      "name": "Canada",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/canada.svg",
+      "apiId": 828
+    },
+    {
+      "id": "1930",
+      "name": "Cape Verde",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/cape_verde.svg",
+      "apiId": 1930
+    },
+    {
+      "id": "818",
+      "name": "Colombia",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/818.svg",
+      "apiId": 818
+    },
+    {
+      "id": "1934",
+      "name": "Congo DR",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/congo_dr.svg",
+      "apiId": 1934
+    },
+    {
+      "id": "799",
+      "name": "Croatia",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/799.svg",
+      "apiId": 799
+    },
+    {
+      "id": "9460",
+      "name": "Curaçao",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/curacao.svg",
+      "apiId": 9460
+    },
+    {
+      "id": "798",
+      "name": "Czechia",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/798.svg",
+      "apiId": 798
+    },
+    {
+      "id": "791",
+      "name": "Ecuador",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/791.svg",
+      "apiId": 791
+    },
+    {
+      "id": "825",
+      "name": "Egypt",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/825.svg",
+      "apiId": 825
+    },
+    {
+      "id": "770",
+      "name": "England",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/770.svg",
+      "apiId": 770
+    },
+    {
+      "id": "773",
+      "name": "France",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/773.svg",
+      "apiId": 773
+    },
+    {
+      "id": "759",
+      "name": "Germany",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/759.svg",
+      "apiId": 759
+    },
+    {
+      "id": "763",
+      "name": "Ghana",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/ghana.svg",
+      "apiId": 763
+    },
+    {
+      "id": "836",
+      "name": "Haiti",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/haiti.svg",
+      "apiId": 836
+    },
+    {
+      "id": "840",
+      "name": "Iran",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/iran.svg",
+      "apiId": 840
+    },
+    {
+      "id": "8062",
+      "name": "Iraq",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/iraq.svg",
+      "apiId": 8062
+    },
+    {
+      "id": "1935",
+      "name": "Ivory Coast",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/787.svg",
+      "apiId": 1935
+    },
+    {
+      "id": "766",
+      "name": "Japan",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/766.svg",
+      "apiId": 766
+    },
+    {
+      "id": "8049",
+      "name": "Jordan",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/8049.png",
+      "apiId": 8049
+    },
+    {
+      "id": "772",
+      "name": "Korea Republic",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/772.png",
+      "apiId": 772
+    },
+    {
+      "id": "769",
+      "name": "Mexico",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/769.svg",
+      "apiId": 769
+    },
+    {
+      "id": "815",
+      "name": "Morocco",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/morocco.svg",
+      "apiId": 815
+    },
+    {
+      "id": "8601",
+      "name": "Netherlands",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/8601.svg",
+      "apiId": 8601
+    },
+    {
+      "id": "783",
+      "name": "New Zealand",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/783.svg",
+      "apiId": 783
+    },
+    {
+      "id": "8872",
+      "name": "Norway",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/813.svg",
+      "apiId": 8872
+    },
+    {
+      "id": "1836",
+      "name": "Panama",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/panama.svg",
+      "apiId": 1836
+    },
+    {
+      "id": "761",
+      "name": "Paraguay",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/761.svg",
+      "apiId": 761
+    },
+    {
+      "id": "765",
+      "name": "Portugal",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/765.svg",
+      "apiId": 765
+    },
+    {
+      "id": "8030",
+      "name": "Qatar",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/8030.svg",
+      "apiId": 8030
+    },
+    {
+      "id": "801",
+      "name": "Saudi Arabia",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/saudi_arabia.svg",
+      "apiId": 801
+    },
+    {
+      "id": "8873",
+      "name": "Scotland",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/814.svg",
+      "apiId": 8873
+    },
+    {
+      "id": "804",
+      "name": "Senegal",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/senegal.svg",
+      "apiId": 804
+    },
+    {
+      "id": "774",
+      "name": "South Africa",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/9396.svg",
+      "apiId": 774
+    },
+    {
+      "id": "760",
+      "name": "Spain",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/760.svg",
+      "apiId": 760
+    },
+    {
+      "id": "792",
+      "name": "Sweden",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/792.svg",
+      "apiId": 792
+    },
+    {
+      "id": "788",
+      "name": "Switzerland",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/788.svg",
+      "apiId": 788
+    },
+    {
+      "id": "802",
+      "name": "Tunisia",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/tunisia.svg",
+      "apiId": 802
+    },
+    {
+      "id": "803",
+      "name": "Turkey",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/803.svg",
+      "apiId": 803
+    },
+    {
+      "id": "758",
+      "name": "Uruguay",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/758.svg",
+      "apiId": 758
+    },
+    {
+      "id": "771",
+      "name": "USA",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/usa.svg",
+      "apiId": 771
+    },
+    {
+      "id": "8070",
+      "name": "Uzbekistan",
+      "group": "",
+      "flagUrl": "https://crests.football-data.org/8070.png",
+      "apiId": 8070
+    }
+  ],
+  "matches": [
+    {
+      "id": "537327",
+      "apiId": 537327,
+      "homeTeam": {
+        "id": "769",
+        "name": "Mexico",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/769.svg",
+        "apiId": 769
+      },
+      "awayTeam": {
+        "id": "774",
+        "name": "South Africa",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/9396.svg",
+        "apiId": 774
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-11T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537328",
+      "apiId": 537328,
+      "homeTeam": {
+        "id": "772",
+        "name": "Korea Republic",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/772.png",
+        "apiId": 772
+      },
+      "awayTeam": {
+        "id": "798",
+        "name": "Czechia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/798.svg",
+        "apiId": 798
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-12T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537333",
+      "apiId": 537333,
+      "homeTeam": {
+        "id": "828",
+        "name": "Canada",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/canada.svg",
+        "apiId": 828
+      },
+      "awayTeam": {
+        "id": "1060",
+        "name": "Bosnia-H.",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/bosnia.svg",
+        "apiId": 1060
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-12T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537345",
+      "apiId": 537345,
+      "homeTeam": {
+        "id": "771",
+        "name": "USA",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/usa.svg",
+        "apiId": 771
+      },
+      "awayTeam": {
+        "id": "761",
+        "name": "Paraguay",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/761.svg",
+        "apiId": 761
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-13T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537334",
+      "apiId": 537334,
+      "homeTeam": {
+        "id": "8030",
+        "name": "Qatar",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8030.svg",
+        "apiId": 8030
+      },
+      "awayTeam": {
+        "id": "788",
+        "name": "Switzerland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/788.svg",
+        "apiId": 788
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-13T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537339",
+      "apiId": 537339,
+      "homeTeam": {
+        "id": "764",
+        "name": "Brazil",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/764.svg",
+        "apiId": 764
+      },
+      "awayTeam": {
+        "id": "815",
+        "name": "Morocco",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/morocco.svg",
+        "apiId": 815
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-13T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537340",
+      "apiId": 537340,
+      "homeTeam": {
+        "id": "836",
+        "name": "Haiti",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/haiti.svg",
+        "apiId": 836
+      },
+      "awayTeam": {
+        "id": "8873",
+        "name": "Scotland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/814.svg",
+        "apiId": 8873
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-14T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537346",
+      "apiId": 537346,
+      "homeTeam": {
+        "id": "779",
+        "name": "Australia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/779.svg",
+        "apiId": 779
+      },
+      "awayTeam": {
+        "id": "803",
+        "name": "Turkey",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/803.svg",
+        "apiId": 803
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-14T04:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537351",
+      "apiId": 537351,
+      "homeTeam": {
+        "id": "759",
+        "name": "Germany",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/759.svg",
+        "apiId": 759
+      },
+      "awayTeam": {
+        "id": "9460",
+        "name": "Curaçao",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/curacao.svg",
+        "apiId": 9460
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-14T17:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537357",
+      "apiId": 537357,
+      "homeTeam": {
+        "id": "8601",
+        "name": "Netherlands",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8601.svg",
+        "apiId": 8601
+      },
+      "awayTeam": {
+        "id": "766",
+        "name": "Japan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/766.svg",
+        "apiId": 766
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-14T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537352",
+      "apiId": 537352,
+      "homeTeam": {
+        "id": "1935",
+        "name": "Ivory Coast",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/787.svg",
+        "apiId": 1935
+      },
+      "awayTeam": {
+        "id": "791",
+        "name": "Ecuador",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/791.svg",
+        "apiId": 791
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-14T23:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537358",
+      "apiId": 537358,
+      "homeTeam": {
+        "id": "792",
+        "name": "Sweden",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/792.svg",
+        "apiId": 792
+      },
+      "awayTeam": {
+        "id": "802",
+        "name": "Tunisia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/tunisia.svg",
+        "apiId": 802
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-15T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537369",
+      "apiId": 537369,
+      "homeTeam": {
+        "id": "760",
+        "name": "Spain",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/760.svg",
+        "apiId": 760
+      },
+      "awayTeam": {
+        "id": "1930",
+        "name": "Cape Verde",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/cape_verde.svg",
+        "apiId": 1930
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-15T16:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537363",
+      "apiId": 537363,
+      "homeTeam": {
+        "id": "805",
+        "name": "Belgium",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/805.svg",
+        "apiId": 805
+      },
+      "awayTeam": {
+        "id": "825",
+        "name": "Egypt",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/825.svg",
+        "apiId": 825
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-15T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537370",
+      "apiId": 537370,
+      "homeTeam": {
+        "id": "801",
+        "name": "Saudi Arabia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/saudi_arabia.svg",
+        "apiId": 801
+      },
+      "awayTeam": {
+        "id": "758",
+        "name": "Uruguay",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/758.svg",
+        "apiId": 758
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-15T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537364",
+      "apiId": 537364,
+      "homeTeam": {
+        "id": "840",
+        "name": "Iran",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/iran.svg",
+        "apiId": 840
+      },
+      "awayTeam": {
+        "id": "783",
+        "name": "New Zealand",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/783.svg",
+        "apiId": 783
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-16T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537391",
+      "apiId": 537391,
+      "homeTeam": {
+        "id": "773",
+        "name": "France",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/773.svg",
+        "apiId": 773
+      },
+      "awayTeam": {
+        "id": "804",
+        "name": "Senegal",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/senegal.svg",
+        "apiId": 804
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-16T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537392",
+      "apiId": 537392,
+      "homeTeam": {
+        "id": "8062",
+        "name": "Iraq",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/iraq.svg",
+        "apiId": 8062
+      },
+      "awayTeam": {
+        "id": "8872",
+        "name": "Norway",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/813.svg",
+        "apiId": 8872
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-16T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537397",
+      "apiId": 537397,
+      "homeTeam": {
+        "id": "762",
+        "name": "Argentina",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/762.png",
+        "apiId": 762
+      },
+      "awayTeam": {
+        "id": "778",
+        "name": "Algeria",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/algeria.svg",
+        "apiId": 778
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-17T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537398",
+      "apiId": 537398,
+      "homeTeam": {
+        "id": "816",
+        "name": "Austria",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/816.svg",
+        "apiId": 816
+      },
+      "awayTeam": {
+        "id": "8049",
+        "name": "Jordan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8049.png",
+        "apiId": 8049
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-17T04:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537403",
+      "apiId": 537403,
+      "homeTeam": {
+        "id": "765",
+        "name": "Portugal",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/765.svg",
+        "apiId": 765
+      },
+      "awayTeam": {
+        "id": "1934",
+        "name": "Congo DR",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/congo_dr.svg",
+        "apiId": 1934
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-17T17:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537409",
+      "apiId": 537409,
+      "homeTeam": {
+        "id": "770",
+        "name": "England",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/770.svg",
+        "apiId": 770
+      },
+      "awayTeam": {
+        "id": "799",
+        "name": "Croatia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/799.svg",
+        "apiId": 799
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-17T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537410",
+      "apiId": 537410,
+      "homeTeam": {
+        "id": "763",
+        "name": "Ghana",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/ghana.svg",
+        "apiId": 763
+      },
+      "awayTeam": {
+        "id": "1836",
+        "name": "Panama",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/panama.svg",
+        "apiId": 1836
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-17T23:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537404",
+      "apiId": 537404,
+      "homeTeam": {
+        "id": "8070",
+        "name": "Uzbekistan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8070.png",
+        "apiId": 8070
+      },
+      "awayTeam": {
+        "id": "818",
+        "name": "Colombia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/818.svg",
+        "apiId": 818
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-18T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537329",
+      "apiId": 537329,
+      "homeTeam": {
+        "id": "798",
+        "name": "Czechia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/798.svg",
+        "apiId": 798
+      },
+      "awayTeam": {
+        "id": "774",
+        "name": "South Africa",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/9396.svg",
+        "apiId": 774
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-18T16:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537335",
+      "apiId": 537335,
+      "homeTeam": {
+        "id": "788",
+        "name": "Switzerland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/788.svg",
+        "apiId": 788
+      },
+      "awayTeam": {
+        "id": "1060",
+        "name": "Bosnia-H.",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/bosnia.svg",
+        "apiId": 1060
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-18T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537336",
+      "apiId": 537336,
+      "homeTeam": {
+        "id": "828",
+        "name": "Canada",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/canada.svg",
+        "apiId": 828
+      },
+      "awayTeam": {
+        "id": "8030",
+        "name": "Qatar",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8030.svg",
+        "apiId": 8030
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-18T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537330",
+      "apiId": 537330,
+      "homeTeam": {
+        "id": "769",
+        "name": "Mexico",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/769.svg",
+        "apiId": 769
+      },
+      "awayTeam": {
+        "id": "772",
+        "name": "Korea Republic",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/772.png",
+        "apiId": 772
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-19T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537348",
+      "apiId": 537348,
+      "homeTeam": {
+        "id": "771",
+        "name": "USA",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/usa.svg",
+        "apiId": 771
+      },
+      "awayTeam": {
+        "id": "779",
+        "name": "Australia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/779.svg",
+        "apiId": 779
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-19T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537342",
+      "apiId": 537342,
+      "homeTeam": {
+        "id": "8873",
+        "name": "Scotland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/814.svg",
+        "apiId": 8873
+      },
+      "awayTeam": {
+        "id": "815",
+        "name": "Morocco",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/morocco.svg",
+        "apiId": 815
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-19T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537341",
+      "apiId": 537341,
+      "homeTeam": {
+        "id": "764",
+        "name": "Brazil",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/764.svg",
+        "apiId": 764
+      },
+      "awayTeam": {
+        "id": "836",
+        "name": "Haiti",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/haiti.svg",
+        "apiId": 836
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-20T00:30:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537347",
+      "apiId": 537347,
+      "homeTeam": {
+        "id": "803",
+        "name": "Turkey",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/803.svg",
+        "apiId": 803
+      },
+      "awayTeam": {
+        "id": "761",
+        "name": "Paraguay",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/761.svg",
+        "apiId": 761
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-20T03:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537359",
+      "apiId": 537359,
+      "homeTeam": {
+        "id": "8601",
+        "name": "Netherlands",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8601.svg",
+        "apiId": 8601
+      },
+      "awayTeam": {
+        "id": "792",
+        "name": "Sweden",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/792.svg",
+        "apiId": 792
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-20T17:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537353",
+      "apiId": 537353,
+      "homeTeam": {
+        "id": "759",
+        "name": "Germany",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/759.svg",
+        "apiId": 759
+      },
+      "awayTeam": {
+        "id": "1935",
+        "name": "Ivory Coast",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/787.svg",
+        "apiId": 1935
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-20T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537354",
+      "apiId": 537354,
+      "homeTeam": {
+        "id": "791",
+        "name": "Ecuador",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/791.svg",
+        "apiId": 791
+      },
+      "awayTeam": {
+        "id": "9460",
+        "name": "Curaçao",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/curacao.svg",
+        "apiId": 9460
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-21T00:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537360",
+      "apiId": 537360,
+      "homeTeam": {
+        "id": "802",
+        "name": "Tunisia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/tunisia.svg",
+        "apiId": 802
+      },
+      "awayTeam": {
+        "id": "766",
+        "name": "Japan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/766.svg",
+        "apiId": 766
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-21T04:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537371",
+      "apiId": 537371,
+      "homeTeam": {
+        "id": "760",
+        "name": "Spain",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/760.svg",
+        "apiId": 760
+      },
+      "awayTeam": {
+        "id": "801",
+        "name": "Saudi Arabia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/saudi_arabia.svg",
+        "apiId": 801
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-21T16:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537365",
+      "apiId": 537365,
+      "homeTeam": {
+        "id": "805",
+        "name": "Belgium",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/805.svg",
+        "apiId": 805
+      },
+      "awayTeam": {
+        "id": "840",
+        "name": "Iran",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/iran.svg",
+        "apiId": 840
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-21T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537372",
+      "apiId": 537372,
+      "homeTeam": {
+        "id": "758",
+        "name": "Uruguay",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/758.svg",
+        "apiId": 758
+      },
+      "awayTeam": {
+        "id": "1930",
+        "name": "Cape Verde",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/cape_verde.svg",
+        "apiId": 1930
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-21T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537366",
+      "apiId": 537366,
+      "homeTeam": {
+        "id": "783",
+        "name": "New Zealand",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/783.svg",
+        "apiId": 783
+      },
+      "awayTeam": {
+        "id": "825",
+        "name": "Egypt",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/825.svg",
+        "apiId": 825
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-22T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537399",
+      "apiId": 537399,
+      "homeTeam": {
+        "id": "762",
+        "name": "Argentina",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/762.png",
+        "apiId": 762
+      },
+      "awayTeam": {
+        "id": "816",
+        "name": "Austria",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/816.svg",
+        "apiId": 816
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-22T17:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537393",
+      "apiId": 537393,
+      "homeTeam": {
+        "id": "773",
+        "name": "France",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/773.svg",
+        "apiId": 773
+      },
+      "awayTeam": {
+        "id": "8062",
+        "name": "Iraq",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/iraq.svg",
+        "apiId": 8062
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-22T21:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537394",
+      "apiId": 537394,
+      "homeTeam": {
+        "id": "8872",
+        "name": "Norway",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/813.svg",
+        "apiId": 8872
+      },
+      "awayTeam": {
+        "id": "804",
+        "name": "Senegal",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/senegal.svg",
+        "apiId": 804
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-23T00:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537400",
+      "apiId": 537400,
+      "homeTeam": {
+        "id": "8049",
+        "name": "Jordan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8049.png",
+        "apiId": 8049
+      },
+      "awayTeam": {
+        "id": "778",
+        "name": "Algeria",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/algeria.svg",
+        "apiId": 778
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-23T03:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537405",
+      "apiId": 537405,
+      "homeTeam": {
+        "id": "765",
+        "name": "Portugal",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/765.svg",
+        "apiId": 765
+      },
+      "awayTeam": {
+        "id": "8070",
+        "name": "Uzbekistan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8070.png",
+        "apiId": 8070
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-23T17:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537411",
+      "apiId": 537411,
+      "homeTeam": {
+        "id": "770",
+        "name": "England",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/770.svg",
+        "apiId": 770
+      },
+      "awayTeam": {
+        "id": "763",
+        "name": "Ghana",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/ghana.svg",
+        "apiId": 763
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-23T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537412",
+      "apiId": 537412,
+      "homeTeam": {
+        "id": "1836",
+        "name": "Panama",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/panama.svg",
+        "apiId": 1836
+      },
+      "awayTeam": {
+        "id": "799",
+        "name": "Croatia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/799.svg",
+        "apiId": 799
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-23T23:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537406",
+      "apiId": 537406,
+      "homeTeam": {
+        "id": "818",
+        "name": "Colombia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/818.svg",
+        "apiId": 818
+      },
+      "awayTeam": {
+        "id": "1934",
+        "name": "Congo DR",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/congo_dr.svg",
+        "apiId": 1934
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-24T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537337",
+      "apiId": 537337,
+      "homeTeam": {
+        "id": "788",
+        "name": "Switzerland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/788.svg",
+        "apiId": 788
+      },
+      "awayTeam": {
+        "id": "828",
+        "name": "Canada",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/canada.svg",
+        "apiId": 828
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-24T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537338",
+      "apiId": 537338,
+      "homeTeam": {
+        "id": "1060",
+        "name": "Bosnia-H.",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/bosnia.svg",
+        "apiId": 1060
+      },
+      "awayTeam": {
+        "id": "8030",
+        "name": "Qatar",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8030.svg",
+        "apiId": 8030
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-24T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537344",
+      "apiId": 537344,
+      "homeTeam": {
+        "id": "815",
+        "name": "Morocco",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/morocco.svg",
+        "apiId": 815
+      },
+      "awayTeam": {
+        "id": "836",
+        "name": "Haiti",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/haiti.svg",
+        "apiId": 836
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-24T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537343",
+      "apiId": 537343,
+      "homeTeam": {
+        "id": "8873",
+        "name": "Scotland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/814.svg",
+        "apiId": 8873
+      },
+      "awayTeam": {
+        "id": "764",
+        "name": "Brazil",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/764.svg",
+        "apiId": 764
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-24T22:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537331",
+      "apiId": 537331,
+      "homeTeam": {
+        "id": "798",
+        "name": "Czechia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/798.svg",
+        "apiId": 798
+      },
+      "awayTeam": {
+        "id": "769",
+        "name": "Mexico",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/769.svg",
+        "apiId": 769
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-25T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537332",
+      "apiId": 537332,
+      "homeTeam": {
+        "id": "774",
+        "name": "South Africa",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/9396.svg",
+        "apiId": 774
+      },
+      "awayTeam": {
+        "id": "772",
+        "name": "Korea Republic",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/772.png",
+        "apiId": 772
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-25T01:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537355",
+      "apiId": 537355,
+      "homeTeam": {
+        "id": "791",
+        "name": "Ecuador",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/791.svg",
+        "apiId": 791
+      },
+      "awayTeam": {
+        "id": "759",
+        "name": "Germany",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/759.svg",
+        "apiId": 759
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-25T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537356",
+      "apiId": 537356,
+      "homeTeam": {
+        "id": "9460",
+        "name": "Curaçao",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/curacao.svg",
+        "apiId": 9460
+      },
+      "awayTeam": {
+        "id": "1935",
+        "name": "Ivory Coast",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/787.svg",
+        "apiId": 1935
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-25T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537361",
+      "apiId": 537361,
+      "homeTeam": {
+        "id": "802",
+        "name": "Tunisia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/tunisia.svg",
+        "apiId": 802
+      },
+      "awayTeam": {
+        "id": "8601",
+        "name": "Netherlands",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8601.svg",
+        "apiId": 8601
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-25T23:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537362",
+      "apiId": 537362,
+      "homeTeam": {
+        "id": "766",
+        "name": "Japan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/766.svg",
+        "apiId": 766
+      },
+      "awayTeam": {
+        "id": "792",
+        "name": "Sweden",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/792.svg",
+        "apiId": 792
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-25T23:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537349",
+      "apiId": 537349,
+      "homeTeam": {
+        "id": "803",
+        "name": "Turkey",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/803.svg",
+        "apiId": 803
+      },
+      "awayTeam": {
+        "id": "771",
+        "name": "USA",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/usa.svg",
+        "apiId": 771
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-26T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537350",
+      "apiId": 537350,
+      "homeTeam": {
+        "id": "761",
+        "name": "Paraguay",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/761.svg",
+        "apiId": 761
+      },
+      "awayTeam": {
+        "id": "779",
+        "name": "Australia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/779.svg",
+        "apiId": 779
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-26T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537395",
+      "apiId": 537395,
+      "homeTeam": {
+        "id": "8872",
+        "name": "Norway",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/813.svg",
+        "apiId": 8872
+      },
+      "awayTeam": {
+        "id": "773",
+        "name": "France",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/773.svg",
+        "apiId": 773
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-26T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537396",
+      "apiId": 537396,
+      "homeTeam": {
+        "id": "804",
+        "name": "Senegal",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/senegal.svg",
+        "apiId": 804
+      },
+      "awayTeam": {
+        "id": "8062",
+        "name": "Iraq",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/iraq.svg",
+        "apiId": 8062
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-26T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537373",
+      "apiId": 537373,
+      "homeTeam": {
+        "id": "758",
+        "name": "Uruguay",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/758.svg",
+        "apiId": 758
+      },
+      "awayTeam": {
+        "id": "760",
+        "name": "Spain",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/760.svg",
+        "apiId": 760
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T00:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537374",
+      "apiId": 537374,
+      "homeTeam": {
+        "id": "1930",
+        "name": "Cape Verde",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/cape_verde.svg",
+        "apiId": 1930
+      },
+      "awayTeam": {
+        "id": "801",
+        "name": "Saudi Arabia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/saudi_arabia.svg",
+        "apiId": 801
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T00:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537367",
+      "apiId": 537367,
+      "homeTeam": {
+        "id": "783",
+        "name": "New Zealand",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/783.svg",
+        "apiId": 783
+      },
+      "awayTeam": {
+        "id": "805",
+        "name": "Belgium",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/805.svg",
+        "apiId": 805
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T03:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537368",
+      "apiId": 537368,
+      "homeTeam": {
+        "id": "825",
+        "name": "Egypt",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/825.svg",
+        "apiId": 825
+      },
+      "awayTeam": {
+        "id": "840",
+        "name": "Iran",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/iran.svg",
+        "apiId": 840
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T03:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537413",
+      "apiId": 537413,
+      "homeTeam": {
+        "id": "1836",
+        "name": "Panama",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/panama.svg",
+        "apiId": 1836
+      },
+      "awayTeam": {
+        "id": "770",
+        "name": "England",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/770.svg",
+        "apiId": 770
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T21:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537414",
+      "apiId": 537414,
+      "homeTeam": {
+        "id": "799",
+        "name": "Croatia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/799.svg",
+        "apiId": 799
+      },
+      "awayTeam": {
+        "id": "763",
+        "name": "Ghana",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/ghana.svg",
+        "apiId": 763
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T21:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537407",
+      "apiId": 537407,
+      "homeTeam": {
+        "id": "818",
+        "name": "Colombia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/818.svg",
+        "apiId": 818
+      },
+      "awayTeam": {
+        "id": "765",
+        "name": "Portugal",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/765.svg",
+        "apiId": 765
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T23:30:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537408",
+      "apiId": 537408,
+      "homeTeam": {
+        "id": "1934",
+        "name": "Congo DR",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/congo_dr.svg",
+        "apiId": 1934
+      },
+      "awayTeam": {
+        "id": "8070",
+        "name": "Uzbekistan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8070.png",
+        "apiId": 8070
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-27T23:30:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537401",
+      "apiId": 537401,
+      "homeTeam": {
+        "id": "8049",
+        "name": "Jordan",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/8049.png",
+        "apiId": 8049
+      },
+      "awayTeam": {
+        "id": "762",
+        "name": "Argentina",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/762.png",
+        "apiId": 762
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-28T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537402",
+      "apiId": 537402,
+      "homeTeam": {
+        "id": "778",
+        "name": "Algeria",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/algeria.svg",
+        "apiId": 778
+      },
+      "awayTeam": {
+        "id": "816",
+        "name": "Austria",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/816.svg",
+        "apiId": 816
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-06-28T02:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    }
+  ]
+}

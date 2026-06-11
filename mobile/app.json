@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Mundial26",
+    "slug": "mundial26",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0b0f14"
+      }
+    }
+  }
+}

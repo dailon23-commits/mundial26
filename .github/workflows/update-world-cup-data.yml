@@ -1,0 +1,41 @@
+name: Update World Cup Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: ingestion/package-lock.json
+
+      - name: Install ingestion dependencies
+        working-directory: ingestion
+        run: npm ci
+
+      - name: Fetch latest matches
+        working-directory: ingestion
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+          FOOTBALL_DATA_COMPETITION: WC
+        run: npm run sync:local
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update world cup data"
+          file_pattern: "mobile/src/data/worldCupSeed.json public/worldCupData.json"

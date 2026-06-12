@@ -401,10 +401,10 @@
         "flagUrl": "https://crests.football-data.org/bosnia.svg",
         "apiId": 1060
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "matchDate": "2026-06-12T19:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

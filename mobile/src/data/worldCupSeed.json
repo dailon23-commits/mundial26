@@ -378,10 +378,10 @@
         "flagUrl": "https://crests.football-data.org/798.svg",
         "apiId": 798
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 1,
       "matchDate": "2026-06-12T02:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

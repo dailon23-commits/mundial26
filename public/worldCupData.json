@@ -723,10 +723,10 @@
         "flagUrl": "https://crests.football-data.org/senegal.svg",
         "apiId": 804
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 1,
       "matchDate": "2026-06-16T19:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -746,10 +746,10 @@
         "flagUrl": "https://crests.football-data.org/813.svg",
         "apiId": 8872
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 3,
       "matchDate": "2026-06-16T22:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

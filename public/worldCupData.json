@@ -401,8 +401,8 @@
         "flagUrl": "https://crests.football-data.org/bosnia.svg",
         "apiId": 1060
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "matchDate": "2026-06-12T19:00:00Z",
       "status": "finished",
       "broadcaster": ""
@@ -815,10 +815,10 @@
         "flagUrl": "https://crests.football-data.org/congo_dr.svg",
         "apiId": 1934
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "matchDate": "2026-06-17T17:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -838,10 +838,10 @@
         "flagUrl": "https://crests.football-data.org/799.svg",
         "apiId": 799
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 2,
       "matchDate": "2026-06-17T20:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

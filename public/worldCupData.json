@@ -907,10 +907,10 @@
         "flagUrl": "https://crests.football-data.org/9396.svg",
         "apiId": 774
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "matchDate": "2026-06-18T16:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -930,10 +930,10 @@
         "flagUrl": "https://crests.football-data.org/bosnia.svg",
         "apiId": 1060
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "matchDate": "2026-06-18T19:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

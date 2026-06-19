@@ -999,10 +999,10 @@
         "flagUrl": "https://crests.football-data.org/779.svg",
         "apiId": 779
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "matchDate": "2026-06-19T19:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1022,10 +1022,10 @@
         "flagUrl": "https://crests.football-data.org/morocco.svg",
         "apiId": 815
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "matchDate": "2026-06-19T22:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

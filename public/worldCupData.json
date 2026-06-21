@@ -1183,10 +1183,10 @@
         "flagUrl": "https://crests.football-data.org/saudi_arabia.svg",
         "apiId": 801
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 0,
       "matchDate": "2026-06-21T16:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

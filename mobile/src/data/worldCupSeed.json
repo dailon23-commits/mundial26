@@ -1183,10 +1183,10 @@
         "flagUrl": "https://crests.football-data.org/saudi_arabia.svg",
         "apiId": 801
       },
-      "homeScore": 3,
+      "homeScore": 4,
       "awayScore": 0,
       "matchDate": "2026-06-21T16:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1206,10 +1206,10 @@
         "flagUrl": "https://crests.football-data.org/iran.svg",
         "apiId": 840
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "matchDate": "2026-06-21T19:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

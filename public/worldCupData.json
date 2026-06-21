@@ -1114,10 +1114,10 @@
         "flagUrl": "https://crests.football-data.org/787.svg",
         "apiId": 1935
       },
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
       "matchDate": "2026-06-20T20:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1137,10 +1137,10 @@
         "flagUrl": "https://crests.football-data.org/curacao.svg",
         "apiId": 9460
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "matchDate": "2026-06-21T00:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1160,10 +1160,10 @@
         "flagUrl": "https://crests.football-data.org/766.svg",
         "apiId": 766
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 4,
       "matchDate": "2026-06-21T04:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

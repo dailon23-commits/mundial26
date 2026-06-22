@@ -1275,10 +1275,10 @@
         "flagUrl": "https://crests.football-data.org/816.svg",
         "apiId": 816
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "matchDate": "2026-06-22T17:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1298,10 +1298,10 @@
         "flagUrl": "https://crests.football-data.org/iraq.svg",
         "apiId": 8062
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "matchDate": "2026-06-22T21:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

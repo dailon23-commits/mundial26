@@ -1298,10 +1298,10 @@
         "flagUrl": "https://crests.football-data.org/iraq.svg",
         "apiId": 8062
       },
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
       "matchDate": "2026-06-22T21:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1321,10 +1321,10 @@
         "flagUrl": "https://crests.football-data.org/senegal.svg",
         "apiId": 804
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 2,
       "matchDate": "2026-06-23T00:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1344,10 +1344,10 @@
         "flagUrl": "https://crests.football-data.org/algeria.svg",
         "apiId": 778
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 2,
       "matchDate": "2026-06-23T03:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

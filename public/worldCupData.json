@@ -1367,10 +1367,10 @@
         "flagUrl": "https://crests.football-data.org/8070.png",
         "apiId": 8070
       },
-      "homeScore": 2,
+      "homeScore": 5,
       "awayScore": 0,
       "matchDate": "2026-06-23T17:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1390,10 +1390,10 @@
         "flagUrl": "https://crests.football-data.org/ghana.svg",
         "apiId": 763
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "matchDate": "2026-06-23T20:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

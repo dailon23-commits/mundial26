@@ -1459,10 +1459,10 @@
         "flagUrl": "https://crests.football-data.org/canada.svg",
         "apiId": 828
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 1,
       "matchDate": "2026-06-24T19:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1482,10 +1482,10 @@
         "flagUrl": "https://crests.football-data.org/8030.svg",
         "apiId": 8030
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 1,
       "matchDate": "2026-06-24T19:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

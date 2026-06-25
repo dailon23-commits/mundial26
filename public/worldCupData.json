@@ -401,8 +401,8 @@
         "flagUrl": "https://crests.football-data.org/bosnia.svg",
         "apiId": 1060
       },
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": null,
+      "awayScore": null,
       "matchDate": "2026-06-12T19:00:00Z",
       "status": "finished",
       "broadcaster": ""
@@ -1505,10 +1505,10 @@
         "flagUrl": "https://crests.football-data.org/haiti.svg",
         "apiId": 836
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 4,
+      "awayScore": 2,
       "matchDate": "2026-06-24T22:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1528,10 +1528,10 @@
         "flagUrl": "https://crests.football-data.org/764.svg",
         "apiId": 764
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 3,
       "matchDate": "2026-06-24T22:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1551,10 +1551,10 @@
         "flagUrl": "https://crests.football-data.org/769.svg",
         "apiId": 769
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 3,
       "matchDate": "2026-06-25T01:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1574,10 +1574,10 @@
         "flagUrl": "https://crests.football-data.org/772.png",
         "apiId": 772
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "matchDate": "2026-06-25T01:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

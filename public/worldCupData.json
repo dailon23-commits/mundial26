@@ -1781,10 +1781,10 @@
         "flagUrl": "https://crests.football-data.org/760.svg",
         "apiId": 760
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "matchDate": "2026-06-27T00:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1804,10 +1804,10 @@
         "flagUrl": "https://crests.football-data.org/saudi_arabia.svg",
         "apiId": 801
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "matchDate": "2026-06-27T00:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1827,10 +1827,10 @@
         "flagUrl": "https://crests.football-data.org/805.svg",
         "apiId": 805
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 5,
       "matchDate": "2026-06-27T03:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -1850,10 +1850,10 @@
         "flagUrl": "https://crests.football-data.org/iran.svg",
         "apiId": 840
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "matchDate": "2026-06-27T03:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

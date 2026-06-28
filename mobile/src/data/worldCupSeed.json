@@ -2011,10 +2011,10 @@
         "flagUrl": "https://crests.football-data.org/canada.svg",
         "apiId": 828
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "matchDate": "2026-06-28T19:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

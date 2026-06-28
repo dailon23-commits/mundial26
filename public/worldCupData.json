@@ -2012,9 +2012,9 @@
         "apiId": 828
       },
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "matchDate": "2026-06-28T19:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {

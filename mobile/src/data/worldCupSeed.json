@@ -2103,10 +2103,10 @@
         "flagUrl": "https://crests.football-data.org/813.svg",
         "apiId": 8872
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 2,
       "matchDate": "2026-06-30T17:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2126,10 +2126,10 @@
         "flagUrl": "https://crests.football-data.org/792.svg",
         "apiId": 792
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "matchDate": "2026-06-30T21:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

@@ -2057,10 +2057,10 @@
         "flagUrl": "https://crests.football-data.org/761.svg",
         "apiId": 761
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 5,
       "matchDate": "2026-06-29T20:30:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2080,10 +2080,10 @@
         "flagUrl": "https://crests.football-data.org/morocco.svg",
         "apiId": 815
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 4,
       "matchDate": "2026-06-30T01:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2359,6 +2359,29 @@
       "homeScore": null,
       "awayScore": null,
       "matchDate": "2026-07-04T01:30:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537376",
+      "apiId": 537376,
+      "homeTeam": {
+        "id": "828",
+        "name": "Canada",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/canada.svg",
+        "apiId": 828
+      },
+      "awayTeam": {
+        "id": "815",
+        "name": "Morocco",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/morocco.svg",
+        "apiId": 815
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-04T17:00:00Z",
       "status": "scheduled",
       "broadcaster": ""
     }

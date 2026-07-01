@@ -2126,10 +2126,10 @@
         "flagUrl": "https://crests.football-data.org/792.svg",
         "apiId": 792
       },
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "matchDate": "2026-06-30T21:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2149,10 +2149,10 @@
         "flagUrl": "https://crests.football-data.org/791.svg",
         "apiId": 791
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "matchDate": "2026-07-01T01:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2382,6 +2382,52 @@
       "homeScore": null,
       "awayScore": null,
       "matchDate": "2026-07-04T17:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537375",
+      "apiId": 537375,
+      "homeTeam": {
+        "id": "761",
+        "name": "Paraguay",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/761.svg",
+        "apiId": 761
+      },
+      "awayTeam": {
+        "id": "773",
+        "name": "France",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/773.svg",
+        "apiId": 773
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-04T21:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537377",
+      "apiId": 537377,
+      "homeTeam": {
+        "id": "764",
+        "name": "Brazil",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/764.svg",
+        "apiId": 764
+      },
+      "awayTeam": {
+        "id": "8872",
+        "name": "Norway",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/813.svg",
+        "apiId": 8872
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-05T20:00:00Z",
       "status": "scheduled",
       "broadcaster": ""
     }

@@ -2172,10 +2172,10 @@
         "flagUrl": "https://crests.football-data.org/congo_dr.svg",
         "apiId": 1934
       },
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
       "matchDate": "2026-07-01T16:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2195,10 +2195,10 @@
         "flagUrl": "https://crests.football-data.org/senegal.svg",
         "apiId": 804
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 2,
       "matchDate": "2026-07-01T20:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

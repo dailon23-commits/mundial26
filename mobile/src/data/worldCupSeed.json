@@ -2241,10 +2241,10 @@
         "flagUrl": "https://crests.football-data.org/816.svg",
         "apiId": 816
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "matchDate": "2026-07-02T19:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

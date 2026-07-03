@@ -2241,10 +2241,10 @@
         "flagUrl": "https://crests.football-data.org/816.svg",
         "apiId": 816
       },
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "matchDate": "2026-07-02T19:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2264,10 +2264,10 @@
         "flagUrl": "https://crests.football-data.org/799.svg",
         "apiId": 799
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 1,
       "matchDate": "2026-07-02T23:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2287,10 +2287,10 @@
         "flagUrl": "https://crests.football-data.org/algeria.svg",
         "apiId": 778
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "matchDate": "2026-07-03T03:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

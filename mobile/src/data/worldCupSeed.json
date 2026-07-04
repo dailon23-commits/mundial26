@@ -2310,10 +2310,10 @@
         "flagUrl": "https://crests.football-data.org/825.svg",
         "apiId": 825
       },
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 5,
       "matchDate": "2026-07-03T18:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2333,10 +2333,10 @@
         "flagUrl": "https://crests.football-data.org/cape_verde.svg",
         "apiId": 1930
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 1,
       "matchDate": "2026-07-03T22:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "broadcaster": ""
     },
     {

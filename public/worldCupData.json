@@ -2333,10 +2333,10 @@
         "flagUrl": "https://crests.football-data.org/cape_verde.svg",
         "apiId": 1930
       },
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 2,
       "matchDate": "2026-07-03T22:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2356,10 +2356,10 @@
         "flagUrl": "https://crests.football-data.org/ghana.svg",
         "apiId": 763
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "matchDate": "2026-07-04T01:30:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2455,6 +2455,29 @@
       "broadcaster": ""
     },
     {
+      "id": "537379",
+      "apiId": 537379,
+      "homeTeam": {
+        "id": "765",
+        "name": "Portugal",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/765.svg",
+        "apiId": 765
+      },
+      "awayTeam": {
+        "id": "760",
+        "name": "Spain",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/760.svg",
+        "apiId": 760
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-06T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
       "id": "537380",
       "apiId": 537380,
       "homeTeam": {
@@ -2474,6 +2497,52 @@
       "homeScore": null,
       "awayScore": null,
       "matchDate": "2026-07-07T00:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537381",
+      "apiId": 537381,
+      "homeTeam": {
+        "id": "762",
+        "name": "Argentina",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/762.png",
+        "apiId": 762
+      },
+      "awayTeam": {
+        "id": "825",
+        "name": "Egypt",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/825.svg",
+        "apiId": 825
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-07T16:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537382",
+      "apiId": 537382,
+      "homeTeam": {
+        "id": "788",
+        "name": "Switzerland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/788.svg",
+        "apiId": 788
+      },
+      "awayTeam": {
+        "id": "818",
+        "name": "Colombia",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/818.svg",
+        "apiId": 818
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-07T20:00:00Z",
       "status": "scheduled",
       "broadcaster": ""
     }

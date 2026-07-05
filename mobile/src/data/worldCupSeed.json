@@ -2545,6 +2545,29 @@
       "matchDate": "2026-07-07T20:00:00Z",
       "status": "scheduled",
       "broadcaster": ""
+    },
+    {
+      "id": "537383",
+      "apiId": 537383,
+      "homeTeam": {
+        "id": "773",
+        "name": "France",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/773.svg",
+        "apiId": 773
+      },
+      "awayTeam": {
+        "id": "815",
+        "name": "Morocco",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/morocco.svg",
+        "apiId": 815
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-09T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
     }
   ]
 }

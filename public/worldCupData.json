@@ -2472,9 +2472,9 @@
         "apiId": 760
       },
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "matchDate": "2026-07-06T19:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

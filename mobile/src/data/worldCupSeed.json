@@ -2471,8 +2471,8 @@
         "flagUrl": "https://crests.football-data.org/760.svg",
         "apiId": 760
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "matchDate": "2026-07-06T19:00:00Z",
       "status": "scheduled",
       "broadcaster": ""

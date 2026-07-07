@@ -2494,10 +2494,10 @@
         "flagUrl": "https://crests.football-data.org/805.svg",
         "apiId": 805
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 4,
       "matchDate": "2026-07-07T00:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2566,6 +2566,29 @@
       "homeScore": null,
       "awayScore": null,
       "matchDate": "2026-07-09T20:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537384",
+      "apiId": 537384,
+      "homeTeam": {
+        "id": "760",
+        "name": "Spain",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/760.svg",
+        "apiId": 760
+      },
+      "awayTeam": {
+        "id": "805",
+        "name": "Belgium",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/805.svg",
+        "apiId": 805
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-10T19:00:00Z",
       "status": "scheduled",
       "broadcaster": ""
     },

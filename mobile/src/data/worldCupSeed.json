@@ -2540,10 +2540,10 @@
         "flagUrl": "https://crests.football-data.org/818.svg",
         "apiId": 818
       },
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 3,
       "matchDate": "2026-07-07T20:00:00Z",
-      "status": "live",
+      "status": "finished",
       "broadcaster": ""
     },
     {
@@ -2612,6 +2612,29 @@
       "homeScore": null,
       "awayScore": null,
       "matchDate": "2026-07-11T21:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537386",
+      "apiId": 537386,
+      "homeTeam": {
+        "id": "762",
+        "name": "Argentina",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/762.png",
+        "apiId": 762
+      },
+      "awayTeam": {
+        "id": "788",
+        "name": "Switzerland",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/788.svg",
+        "apiId": 788
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-12T01:00:00Z",
       "status": "scheduled",
       "broadcaster": ""
     }

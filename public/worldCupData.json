@@ -2563,10 +2563,10 @@
         "flagUrl": "https://crests.football-data.org/morocco.svg",
         "apiId": 815
       },
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "matchDate": "2026-07-09T20:00:00Z",
-      "status": "scheduled",
+      "status": "finished",
       "broadcaster": ""
     },
     {

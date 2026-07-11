@@ -2637,6 +2637,29 @@
       "matchDate": "2026-07-12T01:00:00Z",
       "status": "scheduled",
       "broadcaster": ""
+    },
+    {
+      "id": "537387",
+      "apiId": 537387,
+      "homeTeam": {
+        "id": "773",
+        "name": "France",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/773.svg",
+        "apiId": 773
+      },
+      "awayTeam": {
+        "id": "760",
+        "name": "Spain",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/760.svg",
+        "apiId": 760
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-14T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
     }
   ]
 }

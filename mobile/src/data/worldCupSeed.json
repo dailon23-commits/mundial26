@@ -2678,7 +2678,7 @@
         "flagUrl": "https://crests.football-data.org/762.png",
         "apiId": 762
       },
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "matchDate": "2026-07-15T19:00:00Z",
       "status": "live",

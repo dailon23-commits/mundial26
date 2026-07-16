@@ -2683,6 +2683,52 @@
       "matchDate": "2026-07-15T19:00:00Z",
       "status": "finished",
       "broadcaster": ""
+    },
+    {
+      "id": "537389",
+      "apiId": 537389,
+      "homeTeam": {
+        "id": "773",
+        "name": "France",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/773.svg",
+        "apiId": 773
+      },
+      "awayTeam": {
+        "id": "770",
+        "name": "England",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/770.svg",
+        "apiId": 770
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-18T21:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
+    },
+    {
+      "id": "537390",
+      "apiId": 537390,
+      "homeTeam": {
+        "id": "760",
+        "name": "Spain",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/760.svg",
+        "apiId": 760
+      },
+      "awayTeam": {
+        "id": "762",
+        "name": "Argentina",
+        "group": "",
+        "flagUrl": "https://crests.football-data.org/762.png",
+        "apiId": 762
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "matchDate": "2026-07-19T19:00:00Z",
+      "status": "scheduled",
+      "broadcaster": ""
     }
   ]
 }
